@@ -1,0 +1,13 @@
+body{
+	margin:0px;
+}
+/* Giving the background*/
+#body-header{
+	height: 65vh;
+	background-image: url(C:\Users\sarva\Desktop\Web Development\Resume Project\resume_background.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    background-attachment: fixed;
+
+}
